@@ -1,0 +1,14 @@
+C:\Users\marce\Documents\2BCC\Linguagem de Programação\Visual Studio C#\LOJASOM\LOJASOM\obj\Debug\LOJASOM.csprojAssemblyReference.cache
+C:\Users\marce\Documents\2BCC\Linguagem de Programação\Visual Studio C#\LOJASOM\LOJASOM\obj\Debug\LOJASOM.Properties.Resources.resources
+C:\Users\marce\Documents\2BCC\Linguagem de Programação\Visual Studio C#\LOJASOM\LOJASOM\obj\Debug\LOJASOM.VIEW.frmMenu.resources
+C:\Users\marce\Documents\2BCC\Linguagem de Programação\Visual Studio C#\LOJASOM\LOJASOM\obj\Debug\LOJASOM.csproj.GenerateResource.cache
+C:\Users\marce\Documents\2BCC\Linguagem de Programação\Visual Studio C#\LOJASOM\LOJASOM\obj\Debug\LOJASOM.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\2BCC\Linguagem de Programação\Visual Studio C#\LOJASOM\LOJASOM\bin\Debug\LOJASOM.exe.config
+C:\Users\marce\Documents\2BCC\Linguagem de Programação\Visual Studio C#\LOJASOM\LOJASOM\bin\Debug\LOJASOM.exe
+C:\Users\marce\Documents\2BCC\Linguagem de Programação\Visual Studio C#\LOJASOM\LOJASOM\bin\Debug\LOJASOM.pdb
+C:\Users\marce\Documents\2BCC\Linguagem de Programação\Visual Studio C#\LOJASOM\LOJASOM\obj\Debug\LOJASOM.frmClientes.resources
+C:\Users\marce\Documents\2BCC\Linguagem de Programação\Visual Studio C#\LOJASOM\LOJASOM\obj\Debug\LOJASOM.exe
+C:\Users\marce\Documents\2BCC\Linguagem de Programação\Visual Studio C#\LOJASOM\LOJASOM\obj\Debug\LOJASOM.pdb
+C:\Users\marce\Documents\2BCC\Linguagem de Programação\Visual Studio C#\LOJASOM\LOJASOM\obj\Debug\LOJASOM.VIEW.frmSobre.resources
+C:\Users\marce\Documents\2BCC\Linguagem de Programação\Visual Studio C#\LOJASOM\LOJASOM\obj\Debug\LOJASOM.VIEW.frmProdutos.resources
+C:\Users\marce\Documents\2BCC\Linguagem de Programação\Visual Studio C#\LOJASOM\LOJASOM\obj\Debug\LOJASOM.VIEW.frmVendas.resources
