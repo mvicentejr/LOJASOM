@@ -58,6 +58,9 @@
     <Compile Include="CAMADAS\MODEL\ItemVenda.cs" />
     <Compile Include="CAMADAS\MODEL\Produto.cs" />
     <Compile Include="CAMADAS\MODEL\Venda.cs" />
+    <Compile Include="RELATORIOS\Funcoes.cs" />
+    <Compile Include="RELATORIOS\relClientes.cs" />
+    <Compile Include="RELATORIOS\relProdutos.cs" />
     <Compile Include="VIEW\frmClientes.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -98,6 +101,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="VIEW\frmClientes.resx">
       <DependentUpon>frmClientes.cs</DependentUpon>
@@ -128,7 +132,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="RELATORIOS\" />
+    <None Include="Resources\compact-disc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compact-disc1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

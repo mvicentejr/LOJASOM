@@ -53,5 +53,15 @@ namespace LOJASOM.VIEW
             frmVenda.MdiParent = this;
             frmVenda.Show();
         }
+
+        private void produtosToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            RELATORIOS.relProdutos.relGeralProdutos();
+        }
+
+        private void clientesToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            RELATORIOS.relClientes.relGeralClientes();
+        }
     }
 }
